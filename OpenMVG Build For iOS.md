@@ -46,5 +46,5 @@ $ cmake -GXcode -DCMAKE_BUILD_TYPE=Release \
 
 Set the build settings globally ( Base SDK and Build Active Architecture Only ) :
 
-![Architecture pic](./ArchitecturePic.png)
+![Architecture pic](https://github.com/weifud/UnimportantItem/blob/master/Image/ArchitecturePic.png)
 
