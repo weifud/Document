@@ -1,4 +1,4 @@
-# OpenMVG_4DAGE Build For iOS
+# OpenMVG Build For iOS
 
 1.
 edit the file src/third_party/vectorGraphics/CMakeLists.txt and comment the two last lines :
